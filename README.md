@@ -22,14 +22,13 @@ The validate_data_file(file_url, sample_df) function validates CSV and XLSX file
 The process_repositories(repo_urls, sample_df) function processes each repository URL to identify valid submission files. It summarizes the results, indicating whether valid submissions were found, the repository visibility, and the most recent valid submission URL.
 
 
-**Input Files**:
-links_of_submission.xlsx: Contains GitHub repository URLs.
+**Input Files**: 
+_links_of_submission.xlsx_: Contains GitHub repository URLs.
+_submission_format.csv_: Specifies the format criteria for data files.
 
-submission_format.csv: Specifies the format criteria for data files.
 
-
-**Output File**:
-submission_results.csv: Summarizes the findings for each repository.
+**Output File**: 
+_submission_results.csv_: Summarizes the findings for each repository.
 
 
 **Here's an overview of the columns in the output DataFrame:**
