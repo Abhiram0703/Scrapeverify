@@ -23,12 +23,14 @@ The process_repositories(repo_urls, sample_df) function processes each repositor
 
 
 **Input Files**: 
-                 _links_of_submission.xlsx_: Contains GitHub repository URLs.
 
-                 _submission_format.csv_: Specifies the format criteria for data files.
+_links_of_submission.xlsx_: Contains GitHub repository URLs.
+
+_submission_format.csv_: Specifies the format criteria for data files.
 
 
 **Output File**: 
+
 _submission_results.csv_: Summarizes the findings for each repository.
 
 
