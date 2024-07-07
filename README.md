@@ -2,7 +2,7 @@
 **Overview**
 
 This project contains a Python script to fetch and validate data files from multiple GitHub repositories. It is designed to scrape repositories for CSV and XLSX files, validate their contents against a specified format, and summarize the findings in a CSV report.
-(Please note that this code may take some time to run, especially if processing a large number of repositories, as it involves web scraping and validation of multiple files from each repository)
+(Please note that this code may take some time to run, especially if processing a large number of repositories, as it involves web scraping and validation of multiple files from each repository.Also there are many degug statements, they give details about the repository and files while running. )
 
 
 **Script Details**
