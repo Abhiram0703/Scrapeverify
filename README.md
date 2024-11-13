@@ -1,4 +1,4 @@
-# web-scraping
+# Scrapeverify
 **Overview**
 
 This project contains a Python script to fetch and validate data files from multiple GitHub repositories. It is designed to scrape repositories for CSV and XLSX files, validate their contents against a specified format, and summarize the findings in a CSV report.
